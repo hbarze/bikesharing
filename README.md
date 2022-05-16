@@ -29,6 +29,7 @@ To start, I used <pandas> via <jupyter notebook> to change the tripduration colu
 ## Additional Visualizations 
   
 * To further explore the data, I seperated the customer vs. subscriber groups by trip duration to see the difference in trip length beteween the two segments. 
+
   <img width="322" alt="User_type_trip duration" src="https://user-images.githubusercontent.com/96043107/168645649-88c72463-fdde-462b-ae44-ab95e1186f6f.png">
 
 * Lastly, I created a usertypes filter over a map that displays the counts of bicycles at end-locations, allowing me to pinpoint where majority of customers vs. subscribers end their bike rides. 
