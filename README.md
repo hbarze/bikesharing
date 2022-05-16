@@ -33,6 +33,7 @@ To start, I used <pandas> via <jupyter notebook> to change the tripduration colu
   <img width="322" alt="User_type_trip duration" src="https://user-images.githubusercontent.com/96043107/168645649-88c72463-fdde-462b-ae44-ab95e1186f6f.png">
 
 * Lastly, I created a usertypes filter over a map that displays the counts of bicycles at end-locations, allowing me to pinpoint where majority of customers vs. subscribers end their bike rides. 
+  
   <img width="500" alt="Usertype_subscriber_map" src="https://user-images.githubusercontent.com/96043107/168652825-0aef0a25-fe1a-4e43-b2f5-c5eb3742f093.png">
   <img width="500" alt="Usertype_customer_map" src="https://user-images.githubusercontent.com/96043107/168652865-11c1d3f4-ba79-45b1-a9a9-c09e61d59d31.png">
   
